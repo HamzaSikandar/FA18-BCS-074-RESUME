@@ -1,0 +1,33 @@
+table{
+    background-color: rgb(11, 80, 112);
+    width: 100%;
+    padding-left: 5px;
+    
+}
+#full
+{
+    width: 70%;
+    border-style:solid;
+
+}
+#inblock{
+    padding-left: 5px;
+}
+img{
+    width: 140px;
+    height: 140px;
+    float: right;
+    
+}
+.first{
+    color:  white;
+    
+}
+h1{
+    color: white;
+}
+hr{
+    size: 1px;
+    margin-right: 40px;
+    color: black;
+}
