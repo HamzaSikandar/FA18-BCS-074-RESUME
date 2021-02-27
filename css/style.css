@@ -1,33 +1,28 @@
-table{
-    background-color: rgb(11, 80, 112);
-    width: 100%;
-    padding-left: 5px;
-    
+table {
+  background-color: rgb(11, 80, 112);
+  width: 100%;
+  padding-left: 0.5em;
 }
-#full
-{
-    width: 70%;
-    border-style:solid;
-
+#full {
+  width: 60%;
+  border-style: solid;
 }
-#inblock{
-    padding-left: 5px;
+#inblock {
+  padding-left: 0.5em;
 }
-img{
-    width: 140px;
-    height: 140px;
-    float: right;
-    
+img {
+  width: 10em;
+  height: 10em;
+  float: right;
 }
-.first{
-    color:  white;
-    
+.first {
+  color: white;
 }
-h1{
-    color: white;
+h1 {
+  color: white;
 }
-hr{
-    size: 1px;
-    margin-right: 40px;
-    color: black;
+hr {
+  size: 1px;
+  margin-right: 70px;
+  color: black;
 }
